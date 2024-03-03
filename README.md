@@ -1,16 +1,15 @@
-# MyWalletScan  
+# 空投钱包扫描
 
 > 基于https://github.com/wxtsky/MyWalletScan 修改
 
 ## 关于
 
-一款方便查看管理地址的工具
+一款方便查看管理地址的工具，实时了解刷了多少tx和交易量.....
 
 ## 安装和使用
 
 1. 运行:
 ```bash
-git clone 
 npm i
 npm run dev
 ```
@@ -22,12 +21,6 @@ npm run dev
 2. 本项目数据全部存放于浏览器本地的localStorage中，不会上传任何数据。
 3. 如果有bug或者建议，欢迎提issue或者pr。
 4. 本项目仅供学习交流使用，不提供任何形式的技术支持，使用本项目产生的任何后果与本人无关。
-5. 大家卷起来吧！
 ```
 
 ## 使用
-
-
-
-
-
